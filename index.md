@@ -1,6 +1,6 @@
 ## Welcome to Kai's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/kaileebelz/kwonk4i.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Owned by Kryselle Anne S. Manalang (Kai)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
