@@ -2,26 +2,12 @@
 
 Owned by Kryselle Anne S. Manalang (Kai)
 
-![alt text](![hosh1](https://user-images.githubusercontent.com/89824459/158135487-25d6091f-891d-4f6b-8068-6b20302a4665.png))
+![alt text](https://i.pinimg.com/564x/f5/46/23/f54623e3552fefe2b56b0227f56e217f.jpg)
 
-### Markdown
+### i'm here for u if u need me!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
