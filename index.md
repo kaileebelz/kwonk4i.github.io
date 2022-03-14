@@ -6,7 +6,7 @@ Owned by Kryselle Anne S. Manalang (Kai)
 
 ### **꒰ i'm here for u if u need me :) ꒱**
 
-## here are some of my healing playlists u can listen to :3
+here are some of my healing playlists u can listen to :3
 
 
 
