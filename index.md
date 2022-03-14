@@ -16,7 +16,6 @@ here are some of my healing playlists u can listen to :3
 
 ### # kdrama recos !!
 - [Twenty Five Twenty One](https://www.netflix.com/us/title/81517168?s=i&trkid=13747225&vlang=en&clip=81580267)
-- [Dodosolsollalasol](https://www.netflix.com/us/title/81276344?s=i&trkid=13747225&vlang=en&clip=81399871)
 - [Hospital Playlist](https://www.netflix.com/us/title/81239224?s=i&trkid=13747225&vlang=en&clip=81406151)
 - [Hometown Cha-Cha-Cha](https://www.netflix.com/us/title/81239224?s=i&trkid=13747225&vlang=en&clip=81406151)
 - [W:Two Worlds Apart](https://www.netflix.com/us/title/81042230?s=i&trkid=13747225&vlang=en&clip=81054699)
