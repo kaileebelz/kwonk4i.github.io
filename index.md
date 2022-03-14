@@ -2,7 +2,7 @@
 
 Owned by Kryselle Anne S. Manalang (Kai)
 
-![alt text](![hosh1](https://user-images.githubusercontent.com/89824459/158135360-0f4bf3bf-7f62-4aaf-943c-d4cb1ab3cea6.jpg)
+![alt text](![hosh1](https://user-images.githubusercontent.com/89824459/158135487-25d6091f-891d-4f6b-8068-6b20302a4665.png))
 
 ### Markdown
 
